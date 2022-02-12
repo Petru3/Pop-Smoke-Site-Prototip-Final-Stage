@@ -1,0 +1,111 @@
+footer ul {
+    margin:0;
+    padding:0;
+    list-style-type: none;
+}
+
+footer li {
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 20px;
+    position: relative;
+}
+
+.footer-class{
+    display:inline-block;
+    width:100%;
+    height:100px;
+
+}
+
+    <!-- Footer settings -->
+    <div class="footer-class">
+<footer>
+    <ul>
+        <li><a href="https://www.instagram.com/realpopsmoke/">
+            <img src="./Footer Assets/new-instagram-logo-white-border-icon-png-large.png">
+        </a></li>
+        <li><a href="https://twitter.com/popsmoke10">
+            <img src="./Footer Assets/descărcare.png">
+        </a></li>
+        <li><a href="https://www.facebook.com/RealPopSmoke">
+            <img src="./Footer Assets/descărcare (1).png">
+        </a></li>
+    </ul>
+</footer>
+
+</div>
+
+
+.logo32 {
+    float:left;
+    padding-left:132px;
+    width:120px;
+    height:80px;
+    padding-bottom: 10px;
+}
+
+.title{
+    background-color:transparent;
+    font-family:monospace;
+    text-decoration: none;
+    font-size:80px;
+    color:white;
+
+    float:left top;
+    position: relative;
+}
+
+<div class="contained">
+    <div class="video-photos">
+        <div class="photos">
+            
+
+        </div>
+    </div>
+</div>
+
+.album {
+    width: 280px;
+    height: 280px;
+    padding-top: 0px;
+    padding-left: 4.5ch;
+}
+
+.album1 {
+    width: 390px;
+    height: 390px;
+    padding-top: 20%;
+    padding-left: 2.5ch;
+}
+
+.album2 {
+    width: 280px;
+    height: 280px;
+    padding-top: 0px;
+    padding-left: 2.5ch;
+}
+
+
+.checkbox-container
+	input(type="checkbox" id="rememberMe")
+	label(for="rememberMe" class="checkbox")
+	label(for="rememberMe") Remember me?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
